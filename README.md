@@ -1,10 +1,10 @@
-# Personal Portfolio
+# Personal Website
 
-Welcome to my personal portfolio project! This repository showcases my code for my personal website.
+Welcome to my personal website project! This repository showcases my code for my personal website.
 
 ### Purpose
 - Showcase my development skills and technologies I work with.
-- Provide an overview of the projects I have completed.
+- Provide an overview of the project I have completed.
 - Share my professional story and achievements.
 
 ## Features
