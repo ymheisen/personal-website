@@ -5,7 +5,7 @@
         margin-bottom: 6rem;
     }
     
-    .about-container {
+    .about-containers {
        flex-wrap: wrap; 
     }
 }
@@ -21,7 +21,8 @@
     #hamburger-nav {
         display: flex;
     }
-    #experience, .experience-details-container {
+    #experience,
+    .experience-details-container {
         margin-top: 2rem;
     }
     #profile, 
