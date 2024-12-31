@@ -14,7 +14,7 @@ Welcome to my personal website project! This repository showcases my code for my
 - **Content:** All the content is able to be update easily and is organized.
 
 ## Technologies Used
-- HTML, CSS, JavaScript,
+- HTML, CSS, JavaScript
 
 ## Sections
 - **About Me:** Learn more about my background, skills, and professional journey.
